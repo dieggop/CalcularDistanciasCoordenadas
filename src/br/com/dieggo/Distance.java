@@ -11,7 +11,6 @@ public class Distance {
 	
 	public static void main(String[] args) {
 		Long distancia = 1l;
-		Long radius = 6371l;
 		Double lat = -30.03084728765900000;
 		Double lon = -51.22691719892700000;
 		Double resultDistance;
